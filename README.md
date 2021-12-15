@@ -1,1 +1,2 @@
 # odin-landing
+Landing page assignment from The Odin Project. Coded from scratch, designed to practice various HTML and CSS skills, particularly CSS Flexbox. All images used are free stock images from pixabay.com and unsplash.com.
