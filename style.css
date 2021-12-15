@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-/* * {
+ /* {
     border: 1px solid red;
-    Pleeaaaseee.
 }
 */
 body {
@@ -54,11 +53,6 @@ a {
     color: #F9FAF8;
 }
 
-.hero-photo {
-    width: 200px;
-    height: auto;
-}
-
 .links, .hero-text, .footer {
     font-size: 18px;
     color: #F9FAF8;
@@ -76,8 +70,9 @@ button, .action {
 }
 
 .hero-photo {
-    width: 500px;
+    width: 300px;
     height: auto;
+    border-radius: 10%;
 }
 
 h2 {
