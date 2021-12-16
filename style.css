@@ -50,7 +50,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 70px;
+    padding: 50px;
 }
 
 .hero-head {
@@ -75,8 +75,7 @@ button, .action {
 }
 
 button {
-    border-radius: 5%;
-    border: 1px solid white;
+    border-radius: 5px;
     padding: 5px 20px;
 }
 
@@ -110,7 +109,7 @@ h2 {
     text-align: center;
     flex-wrap: wrap;
     gap: 40px;
-    padding: 70px;
+    padding: 50px;
 }
 
 .text {
@@ -132,7 +131,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 70px;
+    padding: 30px;
 }
 
 .quote-text {
@@ -150,7 +149,7 @@ h2 {
 }
 
 .action-container {
-    padding: 70px;
+    padding: 50px;
     background-color: white;
     display: flex;
     justify-content: center;
@@ -164,6 +163,10 @@ h2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.action button {
+    border: 2px solid white;
 }
 
 .footer {
